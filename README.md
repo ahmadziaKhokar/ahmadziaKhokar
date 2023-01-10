@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ahmad Zia Khokhar
-- 👀 I’m interested in Css, Html 5, Js, Jquery, Hubspot, Hubl, Alpine.js, AWS Cloud C9, React, React in Hubl.
-- 🌱 I’m currently working with Hubbase.io 
+- 👀 I’m interested in Css, Html 5, JavaScript, Hubspot, Hubl, AWS Cloud C9, React, React in Hubl.
+- 🌱 I’m currently working with Hubbase.io as full stack front end developer. 
 - 📫 Contact me at ahmad@hubbase.io
